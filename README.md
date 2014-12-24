@@ -5,7 +5,7 @@ A skeleton to create a bot that reply when you mention it, easily customizable :
 
    :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
-### > Installation
+##  Installation
 
 1. Make sure you have [Composer](http://getcomposer.org)
 2. Clone the twitter-bot repository into the workbench and install dependencies
@@ -18,8 +18,12 @@ A skeleton to create a bot that reply when you mention it, easily customizable :
 3. Register an [application](http://apps.twitter.com) and change the consumerKey, consumerSecret, accessToken and accessTokenSecret from 'events/bot.json'
 4. Customize the replies
 5. Open bot.php and change the path for your json configuration file
+6. Set up a cron job to execute bot.php
 
 You may also want to play with the code in bot.php. I tried to comment it as much as possible for your understanding, but you may need to read the [Twitter API's doc](https://dev.twitter.com/rest/public) to have an idea of what kind of objects are returned.
+
+##  Demo
+[Squarify bot](https://twitter.com/squarifybot) uses this piece of software. You can tweet an image mentioning *@squarifybot* and it will reply with the modified picture.
 
    :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
