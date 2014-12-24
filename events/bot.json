@@ -1,0 +1,17 @@
+{
+  "name": "Reply Bot",
+  "formats": {
+    "replies": [
+      "Hi there!",
+      "Wow",
+      ":)",
+      "Ahoy!"
+    ]
+  },
+  "twitter": {
+    "consumerKey": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+    "consumerSecret": "AbCdEfGhIjKlMnOpQrStUvWxYZ1a2b3c4d5e6f7g8h9i10j11k12l",
+    "accessToken": "1234567890-IjKlMnOpQrStUvWxYZ1a2b3c4d5e6f7g8h9i10j",
+    "accessTokenSecret": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
+  }
+}
